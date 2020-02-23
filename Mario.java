@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * Romance en el palomar
+ * Los Saltos de Mario.
  * Es el ejercicio 158 de Acepta el Reto
  *
  * @author Adrián Saavedra Serrano
